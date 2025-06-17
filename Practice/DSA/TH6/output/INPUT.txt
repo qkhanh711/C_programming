@@ -1,0 +1,6 @@
+5
+laptop 10000000
+mouse 120000
+keyboard 100000
+tablet 5000000
+headphone 300000
